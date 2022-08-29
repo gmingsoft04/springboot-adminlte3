@@ -7,7 +7,7 @@
 
 ### Image Screen shot
 
-Home Page
+Home Page--
 
 ![Home Page](img/home.png "Home Page")
 
